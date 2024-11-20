@@ -1,0 +1,86 @@
+
+  [
+    {
+      "id": "go-air",
+      "company": "GO AIR",
+      "priceRange": "₹100-200",
+      "issueSize": "₹3,600-3,700 Cr.",
+      "listingIssueSize": "₹3,600 Crores",
+      "minInvestment": "₹50,000",
+      "lots": "100 Shares/5lots",
+      "issueDates": "12 Dec - 15 Dec 22",
+      "ipoIssueDate":"4th-7th Oct-2022",
+      "listedOn": "15 Dec 22",
+      "listedPrice": "₹160",
+      "listedGains": "₹10 ",
+      "listedGainsValue": "10.0%",
+      "logoImage": "/images/go-air.jpeg", 
+      
+      "abtUsTxt":"Air India, India’s flagship carrier, boasts a legacy of over 90 years of aviation excellence. Known for its extensive domestic and international network, the airline connects travelers to over 70 international and 100 domestic destinations. Air India’s hospitality reflects Indian culture, offering personalized service and premium in-flight experiences.",
+      "abtUsTxt2":"Recently under the ownership of the Tata Group, Air India is undergoing a major transformation, focusing on modernization and enhanced customer satisfaction. With a renewed vision, the airline aims to reclaim its position as a global aviation leader while continuing to be a proud symbol of India’s aviation heritage.",
+
+      "steps": [
+        { "title": "Bidding starts", "date": "12 Nov 2024" },
+        { "title": "Bidding ends", "date": "15 Nov 2024" },
+        { "title": "Allotment finalization", "date": "18 Nov 2024" },
+        { "title": "Refund initiation", "date": "19 Nov 2024" },
+        { "title": "Demat transfer", "date": "18 Dec 2024" },
+        { "title": "Listing date", "date": "21 Dec 2024" }
+      ]
+    },
+    {
+      "id": "bajaj-energy",
+      "company": "BAJAJ ENERGY",
+      "priceRange": "₹25-40",
+      "issueSize": "₹2500 Cr.",
+      "listingIssueSize": "₹3,600 Crores",
+      "minInvestment": "₹50,000",
+      "lots": "100 Shares/5lots",
+      "issueDates": "12 Dec - 15 Dec 22",
+      "ipoIssueDate":"4th-7th Oct-2022",
+      "listedOn": "15 Dec 22",
+      "listedPrice": "₹150",
+      "listedGains": "₹10 ",
+      "listedGainsValue": "10.0%",
+      "logoImage": "/images/bajaj-energy.jpg", 
+      "abtUsTxt":"Bajaj Energy is a prominent player in India’s power generation sector, specializing in thermal power plants. With a commitment to providing reliable and affordable electricity, the company plays a crucial role in meeting India’s growing energy demands. Bajaj Energy operates state-of-the-art power plants designed for efficiency and sustainability.",
+      "abtUsTxt2":"The company emphasizes innovative practices and environmentally responsible operations, contributing to India's energy independence. Bajaj Energy’s focus on growth and efficiency ensures its position as a key contributor to India’s infrastructure development and economic progress.",
+
+      "steps": [
+        { "title": "Bidding starts", "date": "12 Nov 2024" },
+        { "title": "Bidding ends", "date": "15 Nov 2024" },
+        { "title": "Allotment finalization", "date": "18 Dec 2024" },
+        { "title": "Refund initiation", "date": "18 Dec 2024" },
+        { "title": "Demat transfer", "date": "18 Dec 2024" },
+        { "title": "Listing date", "date": "21 Dec 2024" }
+      ]
+    },
+    {
+      "id": "oyo",
+      "company": "OYO",
+      "priceRange": "₹100-200",
+      "issueSize": "₹3,600-3,700 Cr.",
+      "listingIssueSize": "₹3,600 Crores",
+      "minInvestment": "₹50,000",
+      "lots": "100 Shares/5lots",
+      "issueDates": "12 Dec - 15 Dec 22",
+      "ipoIssueDate":"To be announced",
+      "listedOn": "15 Dec 22",
+      "listedPrice": "₹150",
+      "listedGains": "₹10",
+      "listedGainsValue": "10.0%",
+      "logoImage": "/images/oyo.png", 
+      "abtUsTxt":"OYO, one of the world’s leading hospitality chains, has revolutionized budget accommodations by offering affordable, quality stays with a tech-driven approach. Founded in 2013, the company focuses on standardizing unbranded hotels and providing seamless booking experiences for travelers. OYO’s innovative model and global reach have made it a preferred choice for business and leisure travelers alike.",
+      "abtUsTxt2":"With a presence in over 80 countries, OYO combines technology, customer-centric services, and operational excellence to redefine the hospitality industry. By partnering with small and medium-sized hotels, the brand ensures uniform quality standards and affordability, making travel accessible for everyone.",
+
+      "steps": [
+        { "title": "Bidding starts", "date": "12 Nov 2024" },
+        { "title": "Bidding ends", "date": "15 Nov 2024" },
+        { "title": "Allotment finalization", "date": "18 Dec 2024" },
+        { "title": "Refund initiation", "date": "18 Dec 2024" },
+        { "title": "Demat transfer", "date": "18 Dec 2024" },
+        { "title": "Listing date", "date": "21 Dec 2024" }
+      ]
+    }
+  ]
+  
